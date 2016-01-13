@@ -1,2 +1,3 @@
 # ProgrammingMB
-To support the Programming Merit Badge sessions.
+
+<http://meritbadge.org/wiki/index.php/Programming>
